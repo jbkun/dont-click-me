@@ -17,4 +17,9 @@ The script executes the following actions:<br>
 - Hide desktop icons<br>
 - Create folders with random numbers while user doesn't close the window<br>
 
-The main binary also includes a startup script that does nothing more than display a message at each computer startup.
+The main binary also includes a startup script that does nothing more than display a message at each computer startup.<br>
+
+## What is left to do
+Some things can be improved, the binary will be available when the following requirements will be satisfied:<br>
+- Start the script in minimized mode / background (Powershell?)<br>
+- Reduce latency between each script's actions
