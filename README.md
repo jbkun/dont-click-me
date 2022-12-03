@@ -6,7 +6,9 @@ This batch script emphasises speed of execution, with simple commands and no ser
 The user clicks on the executable file, which initiates a series of commands.<br>
 The executable will download the necessary files from this repository and move them to a folder created in %APPDATA%.<br>
 It will then call the previously downloaded batch files almost simultaneously to ensure that the script is fully executed.<br>
-All the scripts have .bat extension, however some Powershell commands are also used.
+All the scripts have .bat extension, however some Powershell commands are also used.<br>
+
+And yes it is written in batch but the purpose is that the scripts can be executed on a standalone Windows OS.
 
 ## What does it do
 The script executes the following actions:<br>
